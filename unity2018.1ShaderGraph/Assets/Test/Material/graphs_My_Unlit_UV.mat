@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: graphs_My_Unlit_UV
+  m_Shader: {fileID: 4800000, guid: 43454f989c518ed47bef00659a6fcdeb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_8D17C824_Texture:
+        m_Texture: {fileID: 2800000, guid: 65cee635cf4fa4716877b19442e3a58f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2CE6A6CE: 0.5
+    - Vector1_D4F577B4: 0.3
+    - Vector1_DED71020: 100
+    m_Colors:
+    - Vector2_45AFA6AF: {r: 0.5, g: 0.5, b: 0, a: 0}
